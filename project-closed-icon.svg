@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="reel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.3 49.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m54.8,21.7v-9.9c0-2.9-2.4-5.3-5.3-5.3h-20.7L21,.5H5.8C2.9.5.5,2.9.5,5.8v37.9c0,2.9,2.4,5.3,5.3,5.3h43.7c2.9,0,5.3-2.4,5.3-5.3v-22Z"/>
+</svg>
